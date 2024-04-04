@@ -11,3 +11,15 @@ img {
 html {
   scroll-behavior: smooth;
 }
+/*margin left auto para summary item */
+
+body {
+  margin: 0;
+}
+.result {
+  width: 23.4375rem;
+  height: 22.25rem;
+  border-radius: 0 0 32px 32px;
+  background-color: teal;
+  padding-top: 1px;
+}
